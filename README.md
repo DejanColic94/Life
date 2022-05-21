@@ -16,4 +16,5 @@ Source : Wikipedia ( https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life )
 
 # How to start the app:
  1. Clone the repository
+ 2. npm install
  2. npm start
